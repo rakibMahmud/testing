@@ -1,3 +1,4 @@
 This is test1.
 It is an interesting test
 Adding third line of test1
+logo alignment  is  centered.
